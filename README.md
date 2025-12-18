@@ -7,12 +7,6 @@
 
 <hr>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shubhamgiri729\&theme=onedark\&no-frame=true\&margin-w=10)
-
-<hr>
-
 ## 👨‍💻 About Me
 
 * 🎓 **B.E. Computer Engineering** student at **Mumbai University** (3rd Year)
